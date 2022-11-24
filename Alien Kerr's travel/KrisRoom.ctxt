@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KrisRoom
+comment0.text=\r\n\ Kerr\ is\ an\ Alien\ who\ crossed\ into\ a\ palace\ on\ Planet\ A.\ He\ walked\ \r\n\ into\ a\ Kris\u2019s\ room\ in\ an\ accident.\ In\ the\ room\ of\ the\ palace,\ he\ \r\n\ found\ three\ monsters\ named\ Kris.\ If\ he\ meets\ a\ monster,\ he\ will\ \r\n\ faint.\ Kerr\ needs\ to\ avoid\ the\ monster\ Kris\ and\ collect\ gold\ coins,\ \r\n\ leave\ the\ room,\ and\ finally\ escape\ the\ palace.\ Gold\ coins\ can\ be\ \r\n\ upgraded\ to\ make\ Kerr\ stronger\ and\ armed.\ Version\ 1.0\ is\ just\ you\ \r\n\ control\ player\ Kerr\ to\ move\ randomly\ in\ Kris\u2019s\ room.\ You\ just\ press\ \r\n\ \u2018RUN\u2019\ or\ \u2018ACT\u2019\ to\ start\ this\ game.\ This\ game\ is\ built\ for\ the\ teens\ \r\n\ The\ character\ Alien\ Kerr\ image\ is\ from\ the\ template.\ The\ character\ \r\n\ Monster\ Kris\ image\ and\ background\ image\ are\ from\ the\ Internet.\ \r\n\ \r\n\ @author\ Zidong\ Peng\ &\ 202100408064\r\n\ @version\ 1.0\ 11/11/2022\r\n
+comment1.params=
+comment1.target=KrisRoom()
+comment1.text=\r\n\ Create\ Kris's\ room.\ The\ room\ has\ a\ size\ of\ 900x600\ cells,\ \r\n\ where\ every\ cell\ is\ just\ 1\ pixel.\r\n
+comment2.params=
+comment2.target=void\ createPlayerKerr()
+comment2.text=\r\n\ Initialize\ the\ player\ Kerr\ in\ the\ center\ of\ the\ room.\r\n
+comment3.params=
+comment3.target=void\ createMonsterKris()
+comment3.text=\r\n\ Create\ 3\ Monsters\ in\ random\ location\ which\ name\ is\ Kris\ in\ the\ room.\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PlayerKerr
+comment0.text=\r\n\ Player\ Kerr.\ Kerr\ moves\ randomly\ until\ he\ hits\ the\ edge\ of\ the\ world,\ at\r\n\ which\ point\ it\ turns\ randomly.\ If\ Kerr\ meet\ a\ monster\ Kris,\ he\ will\ get\r\n\ vertigo\ effect\ in\ a\ short\ time.\r\n\ \r\n\ @author\ Zidong\ Peng\ &\ 202100408064\r\n\ @version\ 1.0\ 11/11/2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ Act\ -\ contains\ the\ player\ actions.\ This\ method\ is\ called\ whenever\r\n\ \ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ atEdge()
+comment2.text=\r\n\ The\ Player\ can\ turn\ when\ it\ meet\ the\ world\ edge.\r\n
+comment3.params=
+comment3.target=void\ randomMove()
+comment3.text=\r\n\ When\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed,\ the\ player\ can\ random\r\n\ move\ in\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ touchMonster()
+comment4.text=\r\n\ When\ player\ touch\ MonsterKris,\ the\ vertigo\ effect\ in\ player.\r\n
+numComments=5
