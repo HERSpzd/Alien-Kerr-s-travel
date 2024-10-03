@@ -1,3 +1,3 @@
 Alien Kerr's travel
-Java, ues grennfoot
+Java, use grennfoot
 This is the an assessment of a course.
